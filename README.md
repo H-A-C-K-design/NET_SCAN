@@ -1,17 +1,13 @@
 # NET_SCAN
 
-chmod +x netscan-pro.py 
+chmod +x netscan-pro.py ,
 
 
-install.sh 
-
-example_usage.sh
-
-=========================
+========================
 
 #Install the tool:
 
-=========================
+========================
 
 sudo ./install.sh
 
