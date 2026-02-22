@@ -1,13 +1,25 @@
 # NET_SCAN
 
-chmod +x netscan-pro.py install.sh example_usage.sh
-Install the tool:
+chmod +x netscan-pro.py 
 
-bash
+
+install.sh 
+
+example_usage.sh
+
+=========================
+
+#Install the tool:
+
+=========================
+
 sudo ./install.sh
-Basic usage examples:
 
-bash
+
+
+#Basic usage examples:
+
+
 # Scan a specific host
 netscan-pro -t 192.168.1.1
 
